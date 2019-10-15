@@ -1,5 +1,5 @@
 # module that handles the mood system
-#
+#test
 
 # dict of tuples containing mood event data
 default persistent._mas_mood_database = {}
